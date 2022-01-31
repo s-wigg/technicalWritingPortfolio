@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-### [Rubby Ducky Slackbot Documentation](https://github.com/s-wigg/Rubber-Ducky-Chatbot/blob/master/README.md)
+### [Rubber Ducky Slackbot Documentation](https://github.com/s-wigg/Rubber-Ducky-Chatbot/blob/master/README.md)
 Readme, FAQ, Explanation of Features, Decision Tree Diagram
 
 ### [RFC Technical Design Document](https://github.com/s-wigg/technicalWritingPortfolio/blob/main/RFC-Access%20all%20product%20tiers%20without%20credit%20card%20for%20internal%20users.pdf)
