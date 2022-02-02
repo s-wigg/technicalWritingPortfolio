@@ -4,7 +4,7 @@
 Technical design proposal for an internal technical audience proposing a solution to a problem in the billing/payments space
 
 ### [Get Started Guide for Billing Gem](https://github.com/s-wigg/technicalWritingPortfolio/blob/main/Get%20Started%20Guide%20for%20Billing%20Gem.md)
-Technical step by step guide to getting started using the Billing Integration Ruby Gem
+Technical step-by-step guide to getting started using the Billing Integration Ruby Gem
 
 ### [Instructions to Add Credits to a Customer's Account via API Request](https://github.com/s-wigg/technicalWritingPortfolio/blob/main/Request%20for%20Credits.pdf)
 Instructions for an internal technical user to action Support tickets
