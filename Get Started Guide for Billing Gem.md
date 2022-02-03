@@ -50,17 +50,11 @@ clientapi_client = CloudBillingIntegration::ApiClient.new(configuration)
 client = CloudBillingIntegration::BillingIntegrationServiceApi.new(api_client)
 ```
 
-The `server_index` field is the environment in which the client will be running (default is `production`). Your choices for the `server_index` field include:
-
-`CloudBillingIntegration::Configuration::Environment["local"]` allows you to test against a local instance of cloud-billing-integration-service.
-
-`CloudBillingIntegration::Configuration::Environment["development"]` allows you to test against Cloud accounts in the development environment 
-without being billed.
-
-`CloudBillingIntegration::Configuration::Environment["integration"]` allows you to test against Cloud accounts in the integration environment 
-without being billed.
-
-`CloudBillingIntegration::Configuration::Environment["production"]` is the production environment.
+The `server_index` field is the environment in which the client will be running (default is `production`). Options for the `server_index` field are:
+* `CloudBillingIntegration::Configuration::Environment["local"]` allows you to test against a local instance of cloud-billing-integration-service.
+* `CloudBillingIntegration::Configuration::Environment["development"]` allows you to test against Cloud accounts in the development environment without being billed.
+* `CloudBillingIntegration::Configuration::Environment["integration"]` allows you to test against Cloud accounts in the integration environment without being billed.
+* `CloudBillingIntegration::Configuration::Environment["production"]` is the production environment.
 
 ## Code Examples
 
