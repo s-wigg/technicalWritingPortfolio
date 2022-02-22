@@ -27,7 +27,7 @@ Add the following to the Gemfile:
 
 Add the following to the Gemfile:
 
-    gem 'cloud-billing-integration', :git => 'https://github.com/ccloud-billing-integration-ruby.git'
+    gem 'cloud-billing-integration', :git => 'https://github.com/cloud-billing-integration-ruby.git'
     
 ## Usage
 This gem wraps the Cloud Integration service (a GoLang microservice) which is described in the [Documentation](./docs) and generated from the service's OpenAPI v2 spec.
